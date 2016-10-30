@@ -38,9 +38,9 @@ a {
   border-style: solid;
   border-width: 1px;
   border-radius: 0.3rem;
-  background-image: "../image/no";
+  background-image "../image/no";
   transition: color 0.2s, background-color 0.2s, border-color 0.2s; }
-.btn + .btn {
+.btn2 + .btn2 {
   margin-left: 1rem; }
 
 .btn:hover {
